@@ -1,0 +1,850 @@
+{
+  "certs": {
+    "jwk": {
+      "kty": "RSA",
+      "n": "09BMoYPlrLjpgWUNiXRfzWuJczCsnY5F7khR36RqCeGKLHAN4d51eecTFm7M93m6opifekl2D3kSmlLKRzD5lmdiPGSUDm6mIIBF43heC8ZGV45s8qLvtRuBJAHvMQ6lEFfD7A8-Gvm7xyhU_LNx4qwadTmuR8BCgGDeInXm3dtwC5ZYVWr-BRaocEczQAXK6Wvvg78QBwtk5MFCp09EAz8ou_hB46_mzcvCGJBZEjdCkkmaoYzzpE3vS1bjXvzEmV0Wl3ELIzMbVf24Jw4mUE0aTvPkQv045pJJv53z0z5AZ_WR4e0POMU26ahnvSDlR-bwmTfGByDD-drziH09Tw",
+      "e": "AQAB"
+    },
+    "public": "-----BEGIN RSA PUBLIC KEY-----\nMIIBCgKCAQEA09BMoYPlrLjpgWUNiXRfzWuJczCsnY5F7khR36RqCeGKLHAN4d51\neecTFm7M93m6opifekl2D3kSmlLKRzD5lmdiPGSUDm6mIIBF43heC8ZGV45s8qLv\ntRuBJAHvMQ6lEFfD7A8+Gvm7xyhU/LNx4qwadTmuR8BCgGDeInXm3dtwC5ZYVWr+\nBRaocEczQAXK6Wvvg78QBwtk5MFCp09EAz8ou/hB46/mzcvCGJBZEjdCkkmaoYzz\npE3vS1bjXvzEmV0Wl3ELIzMbVf24Jw4mUE0aTvPkQv045pJJv53z0z5AZ/WR4e0P\nOMU26ahnvSDlR+bwmTfGByDD+drziH09TwIDAQAB\n-----END RSA PUBLIC KEY-----\n",
+    "private": "-----BEGIN RSA PRIVATE KEY-----\nProc-Type: 4,ENCRYPTED\nDEK-Info: AES-256-CBC,A7A8CDF83E285DEEA44A71412C438838\n\n3ROPud3OwHAvwCqk+VKhAh3ZeKvSWy5y10KKWLTjCxy/CshV1ZYlozbzmAzF93MD\nGZN98inGhMqKZ3Be5PIb7bOVi/L1iF6O+6XoiP1kjWETJPsWZApvvmsaGG/KYTKI\nOkizlKJM14NPhE3wTgRlw/S58bGDy648hsju+urYxpHzL+jGY+mgb+fbYxC67RIa\nns9nIZVIuRDkFlANXthWqEl0PjYxaolB2LhpCJktbozlQXQTdKZVP50lV8meoUXl\nbRhEV6MzTQPvJzUVe2iN7WA15lLeBbKJwko4Q4hK6tgWUmohvZKs9Y7iBMFxD2EB\n82+B8qlk1Lf2PPwOqHoNaBiuC8qZUIQ2HJEuXZuYXjWdigojigegS2HAGGrbs8qp\nMzn1l+iSLLbKsjC4b+iqGHRljuR18uyAwZsoZOhsCL7DoIqeytQz8+M6F9lDwlsI\n6pmOtQp2drLNJk7weiVxasNEug5l+4cnOAwAr72UbqTMJbt3S4L11NeiU0RF1Dpx\nY63qcfi4N16E3ww7fJ19vALl6MCXaD8NgQPasuBRwiyacZvC+j1Qm4A5ORNBHzaj\niTOlcHd6y15GPx49lGVaB99aoE/onhyoRrviL3Qo41WR0BOjnvjDcNIkrWM2Wts7\nnypX0J7FF3VWw2TDAQAUDYnJOFujLaMB9cnfzdusMshya1VIzRSV6AqTwqv+rw5E\nbl2k0FM/y9ddpmcuuifDxYcQDZmF08bxpJVBCQVchbm/0DUrzvEZlVonARUS3hKj\n5BK66we6kuzFWQg2GF9D2O7W3Zk0kB6u21mbdTHvwIqnEp6dUxd4uWrY3vadLZOi\nNHUXUQGO3sJXvwfhLhDq3aktw8I+S5cPjGf40aAanUIOIHUEc/7LGkWzg39OMVcY\nT8U72/icgFcETv5mnvxB3/6DWad+pUOspPtBiqnKmHDo27YgrSHBdCuWVSaWtkug\nVgcVgEqIJY2Dl+R3aE+3GmSZiWqzZXRY0tQxl32cuGRK4sEn5vM0PyDriQF2XDem\np3FJUjXXlVvCrobX3mSJlwgwzlXnITWaQaszdAEvX7+WYN1rC2/gLYx0SPg9zv3S\nYzcz8YumyJfnmQJk5rFCEXsWnYMAxKgfQFwOGdJ7f6k2s1+Mt81bj0+1/GHg60lR\n+dqMdB8CoQoCXKRQuCPmQd+NIx9FxGQ8QGywX8ennI8WgNZp3Pq9Hg3wBRlzzS8m\nwZWw4dkp7xOEdJ+WJK7JnhQmK/stSLEWpVF6tbMozHzvRFZtyBL5pklK2quSIevY\neZ39BPHxwOP/zqeRH50Pyuhl5KqpgYOgwfWHuh0NXaxDHl9qO0hUuU6G/PD07dfd\n3DBqPGUpD2eFh7HEXz9C+DIS/5B0yozXVoC8v+2snMACViMM8V3aL1HeGopcKoxj\np5tTI9VCEpUjQH0EMdmWxMbzHvPTHVLIGp2/qjakwKORFwVBFHx5xMbc2JskCkWp\nnw/u82oY9fILrmu/T6IkLposQ7QbuAdrEdpeeJIA8LCZuKg05WaoJEvbMWSfV/WR\nrqZyBfYyLDLVYuGl6eti0xQ7VQHONRdJJc9/zHRidA6t+cqP903kyuemyur/xdv0\n-----END RSA PRIVATE KEY-----\n"
+  },
+  "graphEndpoint": "https://graph.requarks.io",
+  "logo": {
+    "hasLogo": false,
+    "logoIsSquare": false
+  },
+  "sessionSecret": "68e1313ccfe4077d28a1f6bfade87e56e71e3de1c4645ce3bb2c7ee15e345420",
+  "telemetry": {
+    "isEnabled": true,
+    "clientId": "640102da-8dd4-48c3-a902-c91354837f7c"
+  },
+  "mail": {
+    "senderName": "Iterpax Notificaciones",
+    "senderEmail": "notificaciones@thinkupstudios.com.ar",
+    "host": "smtp.gmail.com",
+    "port": 465,
+    "name": "thinkupstudios.com.ar",
+    "secure": true,
+    "verifySSL": true,
+    "user": "notificaciones@thinkup.com.ar",
+    "pass": "wycfulflrmatvzzw",
+    "useDKIM": false,
+    "dkimDomainName": "",
+    "dkimKeySelector": "",
+    "dkimPrivateKey": ""
+  },
+  "host": "https://help.iterpax.com",
+  "title": "Wiki Iterpax",
+  "company": "Iterpax Studios SL",
+  "contentLicense": "alr",
+  "footerOverride": "",
+  "seo": {
+    "description": "Iterpax Sistema de gestión integral para Agencias de turismo",
+    "robots": [
+      "index",
+      "follow"
+    ],
+    "analyticsService": "",
+    "analyticsId": ""
+  },
+  "logoUrl": "/iterpax_conector_verde.png",
+  "pageExtensions": [
+    "md",
+    "html",
+    "txt"
+  ],
+  "lang": {
+    "code": "es",
+    "autoUpdate": true,
+    "namespacing": true,
+    "namespaces": [
+      "es"
+    ],
+    "rtl": false
+  },
+  "auth": {
+    "autoLogin": false,
+    "enforce2FA": false,
+    "hideLocal": false,
+    "loginBgUrl": "",
+    "audience": "urn:wiki.js",
+    "tokenExpiration": "30m",
+    "tokenRenewal": "14d"
+  },
+  "editShortcuts": {
+    "editFab": true,
+    "editMenuBar": false,
+    "editMenuBtn": false,
+    "editMenuExternalBtn": false,
+    "editMenuExternalName": "GitHub",
+    "editMenuExternalIcon": "mdi-github",
+    "editMenuExternalUrl": "https://github.com/org/repo/blob/main/{filename}"
+  },
+  "features": {
+    "featurePageRatings": true,
+    "featurePageComments": false,
+    "featurePersonalWikis": true
+  },
+  "security": {
+    "securityOpenRedirect": true,
+    "securityIframe": true,
+    "securityReferrerPolicy": true,
+    "securityTrustProxy": false,
+    "securitySRI": true,
+    "securityHSTS": false,
+    "securityHSTSDuration": 300,
+    "securityCSP": false,
+    "securityCSPDirectives": ""
+  },
+  "uploads": {
+    "maxFileSize": 5242880,
+    "maxFiles": 10,
+    "scanSVG": true,
+    "forceDownload": true
+  },
+  "nav": {
+    "mode": "STATIC"
+  },
+  "theming": {
+    "theme": "default",
+    "darkMode": false,
+    "iconset": "fa",
+    "injectCSS": ".v-application .v-list.primary,.v-application .v-navigation-drawer.primary,.v-application .v-toolbar.primary{background-color:#42b27f!important;border-color:#42b27f!important}.v-application .v-btn.primary{background-color:#a9741b!important;border-color:#a9741b!important}.v-application .blue,.v-application .deep-purple,.v-application .v-input__slot.deep-purple{background-color:#387f5f!important;border-color:#387f5f!important}.flex.page-col-sd.order-xs2.lg3.xl2 .page-author-card,.flex.page-col-sd.order-xs2.lg3.xl2 .page-shortcuts-card,.flex.page-col-sd.order-xs2.lg3.xl2 .page-tags-card{display:none!important}",
+    "injectHead": "",
+    "injectBody": "<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/6634a7e51ec1082f04ea6d0e/1hsuqvm2h';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
+    "tocPosition": "right"
+  },
+  "port": 3000,
+  "bindIP": "0.0.0.0",
+  "db": {
+    "type": "postgres",
+    "host": "db",
+    "port": 5432,
+    "user": "wiki",
+    "pass": "HcEl/FZIskTrcKLYkXKhV9abHoj211HCGwJYk5G+BjI=",
+    "db": "wiki",
+    "storage": "undefined",
+    "ssl": "undefined",
+    "sslOptions": {
+      "auto": true
+    }
+  },
+  "ssl": {
+    "enabled": 1,
+    "port": 3443,
+    "provider": "letsencrypt",
+    "domain": "help.iterpax.com",
+    "subscriberEmail": "info@iterpax.com",
+    "format": "pem",
+    "inline": true,
+    "key": "-----BEGIN RSA PRIVATE KEY-----\nMIIEpQIBAAKCAQEAtf6R9TdUgD2ixUzu1H/IWQux0MAWnTzKPqpV9TgByx+8aYMv\nuHWzmAUVPYI04lnNV5SNLZ9ltzufBxL15O8e5eoYt5BtqjZHs6hwOIi2CEVP6sR4\nVSUYJjlZhPMRE5QiW7+XVNx/6uVynxjNMPrk5zNnangkWQvVL/FGN2Ua7n20AzfU\n9aKLLFt+8UG+1FXbw4wNgtEJqQAvHTuS0pq8m0qy3iSSxdJnnhEnu3s4xPruXxwB\nUUSmhsfw3GOa2NLv55CcNK5MmGj/pVDWN1ZVeKtSVHfRKevb4yTICBhJuwHPhize\nzfyJJ7Z45ESBzDLKEPML6mnqG219R9HOPPNZ9QIDAQABAoIBAAw1Iz07lON1PvHV\nE0AVwi6W5jqGZ/3sEfTaICHuu9AQNOcu8YiB/KX50U7q6Pk15Nw3DrE8u+nqieRD\nlVLh50SsyzOk8HY2ZeDbL4vbP7qWS6IHw7qSXmhR+Hs+gqq5iQR2eYQrtjjfYyzg\n0QK0EZ6giBNQM7/1Vzt8B6W3lnLgxqtvbEpP9gzbtwFRnA9DClNa/8fk5c5pZQRR\nBnqhh2vX1auK+J5xjtsttcL1PMHJMAOTbjtzhkAL4my3z6Qis5Eoq5rNiS5m9kn1\nwJLazrbJ17OuNbpmxQyedIVt6q8BfwRL0ioxOCi3jwxnojh6ML7cvUuUTJ/Oqh01\nZTQxL4ECgYEA5XmyL+Lcir0YNBn6Efk6zHlB2fM8F0mah5e8iNNE8RnHoEEkHOvO\n4NF0oTl6l4hqp9R07q+BrnE5t1Tzf8en6h30FciW4tw5LWoHJ0vK2ey8q1qr2FMe\nMKGVzH44oPU6CaLNCZP6E+/brMohJTJmtBMEIKziHXSQpXmDbByL5b0CgYEAywfi\n1h9WZxzuvlGJhEYTvwUHoZKSDW8M8BlLKe4Y4Ns8oxJdoGWmghj7goJLL9omappK\nuT+Xixf+W4DJEUlnI2ECCsMk7KaD3zj0vvUhow2lmOklkk9v05cTdV9WN/nyv7o2\nOfjSkYYjfOeqx4NpP6BwMN7dRrSlwerA2UyF/JkCgYEAxvpGKsWhDGA463yW3Rzq\nAkEme5EwytSUvPwyi8X94r3C3k99u+Iw6bpVUjNf/KNaMBrGJe1jGlqtfC2aUnNS\nQ2wjqPvc8euZXKqydz1+MIbZdg/SMGqqI+sI1F+iRNc+svpKpgJ89uql5ecC5JkW\nexB+JMMj8fyQLBv4fDcoi1UCgYEAjywNex94J5iQhycqiVt9ezvJyNd6JP0Fq566\nkWP0qUQQ+5Hs8jocdCu32K2W5bS5WH1bakz8ybpuxQoJQCZ6E8nJzdsVA8jcv6ID\nfVGRmdD60NzAgO+BlT05HJDRVQHue+ONb84Wd0aXafJYTP9PTe4Oj3fppH2pUhkA\nS3waFCkCgYEAu1q9lWMvJJeGlM5AkmnBVbqArRNsckaNGf/Thh9OSSPx8Zbv7LN/\nQHsKtbhEUTrU0l3xY15cEqXRNuTQH/Bxvo7yaHYTeMUmb9VYUIsQPBW/KoQjRbAP\nzo9Ute9l2ydjnfeYf3TCE77hh6NjTAvZ3I4xwm8LwtO2xBi+seKhXnU=\n-----END RSA PRIVATE KEY-----",
+    "cert": "-----BEGIN CERTIFICATE-----\nMIIE7jCCA9agAwIBAgISA7MPo0BR2wkIDnN+VtEWAyROMA0GCSqGSIb3DQEBCwUA\nMDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD\nEwJSMzAeFw0yNDA1MDcxMDE1NTZaFw0yNDA4MDUxMDE1NTVaMBsxGTAXBgNVBAMT\nEGhlbHAuaXRlcnBheC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB\nAQC1/pH1N1SAPaLFTO7Uf8hZC7HQwBadPMo+qlX1OAHLH7xpgy+4dbOYBRU9gjTi\nWc1XlI0tn2W3O58HEvXk7x7l6hi3kG2qNkezqHA4iLYIRU/qxHhVJRgmOVmE8xET\nlCJbv5dU3H/q5XKfGM0w+uTnM2dqeCRZC9Uv8UY3ZRrufbQDN9T1oossW37xQb7U\nVdvDjA2C0QmpAC8dO5LSmrybSrLeJJLF0meeESe7ezjE+u5fHAFRRKaGx/DcY5rY\n0u/nkJw0rkyYaP+lUNY3VlV4q1JUd9Ep69vjJMgIGEm7Ac+GLN7N/IkntnjkRIHM\nMsoQ8wvqaeobbX1H0c4881n1AgMBAAGjggITMIICDzAOBgNVHQ8BAf8EBAMCBaAw\nHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD\nVR0OBBYEFPdoGuDQBtBqOM/nBYpvewEUvaLMMB8GA1UdIwQYMBaAFBQusxe3WFbL\nrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov\nL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v\ncmcvMBsGA1UdEQQUMBKCEGhlbHAuaXRlcnBheC5jb20wEwYDVR0gBAwwCjAIBgZn\ngQwBAgEwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwBIsONr2qZHNA/lagL6nTDr\nHFIBy1bdLIHZu7+rOdiEcwAAAY9SxHGXAAAEAwBIMEYCIQDxFmFpTYDB+bUo2RI0\nzyQscvuXrj6CrEjTvHgDvIQdmQIhAPJKvFyRrH5mD/eUI6kRuqxTvAy1j7JJ43yU\n+aubLgMqAHYA7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGPUsRx\nmQAABAMARzBFAiBER4TqV4t2UfGaTIX81lym31HshjbWUBOcEN6tAxtH9AIhAJ02\nB9XUXlOtaFHVAWggEg0QE7I6Kxr0c81xeTn0elN0MA0GCSqGSIb3DQEBCwUAA4IB\nAQBupTI6a5edL2eFCy/1ZqwS103NXvkLeX+6ShLI2nz6Aq4WTkgNAlGKfmRknN8c\nmRRFZEYUAjHFvXHGI9+16jU4fTlF3QEkwH/wjx7xBLNfv0/tL+MnAMD83sK3WZJY\n/gj5mLCri4PfjO/CL+ucaPUPm9dGMnPy76m8BX5WaF/BeP8V4wIQIR2x60Boix5X\nwvd7ZfUZIIEcdzDwO1pgxkah4tH4cPPvCejNVERYuYMBgBIukYlBhiB9wdDAytg7\nMa3hpBDfy2R53A8MnX8vQgqP9rc/q2vtoua8rxV3NIcH73dX0XOM1IDLbaZEFwq7\nUe2vKdVbKBlWnihT4JpacXQF\n-----END CERTIFICATE-----\n\n-----BEGIN CERTIFICATE-----\nMIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAw\nTzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2Vh\ncmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMjAwOTA0MDAwMDAw\nWhcNMjUwOTE1MTYwMDAwWjAyMQswCQYDVQQGEwJVUzEWMBQGA1UEChMNTGV0J3Mg\nRW5jcnlwdDELMAkGA1UEAxMCUjMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK\nAoIBAQC7AhUozPaglNMPEuyNVZLD+ILxmaZ6QoinXSaqtSu5xUyxr45r+XXIo9cP\nR5QUVTVXjJ6oojkZ9YI8QqlObvU7wy7bjcCwXPNZOOftz2nwWgsbvsCUJCWH+jdx\nsxPnHKzhm+/b5DtFUkWWqcFTzjTIUu61ru2P3mBw4qVUq7ZtDpelQDRrK9O8Zutm\nNHz6a4uPVymZ+DAXXbpyb/uBxa3Shlg9F8fnCbvxK/eG3MHacV3URuPMrSXBiLxg\nZ3Vms/EY96Jc5lP/Ooi2R6X/ExjqmAl3P51T+c8B5fWmcBcUr2Ok/5mzk53cU6cG\n/kiFHaFpriV1uxPMUgP17VGhi9sVAgMBAAGjggEIMIIBBDAOBgNVHQ8BAf8EBAMC\nAYYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMBMBIGA1UdEwEB/wQIMAYB\nAf8CAQAwHQYDVR0OBBYEFBQusxe3WFbLrlAJQOYfr52LFMLGMB8GA1UdIwQYMBaA\nFHm0WeZ7tuXkAXOACIjIGlj26ZtuMDIGCCsGAQUFBwEBBCYwJDAiBggrBgEFBQcw\nAoYWaHR0cDovL3gxLmkubGVuY3Iub3JnLzAnBgNVHR8EIDAeMBygGqAYhhZodHRw\nOi8veDEuYy5sZW5jci5vcmcvMCIGA1UdIAQbMBkwCAYGZ4EMAQIBMA0GCysGAQQB\ngt8TAQEBMA0GCSqGSIb3DQEBCwUAA4ICAQCFyk5HPqP3hUSFvNVneLKYY611TR6W\nPTNlclQtgaDqw+34IL9fzLdwALduO/ZelN7kIJ+m74uyA+eitRY8kc607TkC53wl\nikfmZW4/RvTZ8M6UK+5UzhK8jCdLuMGYL6KvzXGRSgi3yLgjewQtCPkIVz6D2QQz\nCkcheAmCJ8MqyJu5zlzyZMjAvnnAT45tRAxekrsu94sQ4egdRCnbWSDtY7kh+BIm\nlJNXoB1lBMEKIq4QDUOXoRgffuDghje1WrG9ML+Hbisq/yFOGwXD9RiX8F6sw6W4\navAuvDszue5L3sz85K+EC4Y/wFVDNvZo4TYXao6Z0f+lQKc0t8DQYzk1OXVu8rp2\nyJMC6alLbBfODALZvYH7n7do1AZls4I9d1P4jnkDrQoxB3UqQ9hVl3LEKQ73xF1O\nyK5GhDDX8oVfGKF5u+decIsH4YaTw7mP3GFxJSqv3+0lUFJoi5Lc5da149p90Ids\nhCExroL1+7mryIkXPeFM5TgO9r0rvZaBFOvV2z0gp35Z0+L4WPlbuEjN/lxPFin+\nHlUjr8gRsI3qfJOQFy/9rKIJR0Y/8Omwt/8oTWgy1mdeHmmjk7j1nYsvC9JSQ6Zv\nMldlTTKB3zhThV1+XWYp6rjd5JW1zbVWEkLNxE7GJThEUG3szgBVGP7pSWTUTsqX\nnLRbwHOoq7hHwg==\n-----END CERTIFICATE-----\n",
+    "passphrase": null,
+    "dhparam": null
+  },
+  "logLevel": "info",
+  "logFormat": "default",
+  "ha": "undefined",
+  "pool": {
+    "min": 1
+  },
+  "offline": false,
+  "bodyParserLimit": "5mb",
+  "api": {
+    "isEnabled": false
+  },
+  "server": {
+    "sslRedir": false
+  },
+  "flags": {
+    "ldapdebug": false,
+    "sqllog": false
+  },
+  "channel": "STABLE",
+  "setup": false,
+  "dataPath": "./data",
+  "cors": {
+    "credentials": true,
+    "maxAge": 600,
+    "methods": "GET,POST",
+    "origin": true
+  },
+  "search": {
+    "maxHits": 100
+  },
+  "maintainerEmail": "security@requarks.io",
+  "letsencrypt": {
+    "accountKeypair": {
+      "private": {
+        "kty": "EC",
+        "crv": "P-256",
+        "d": "T8C6FK_ydlGsYdbbi64i1O2cHa9Zsj373epO4-HuA0A",
+        "x": "99TvE8bhQD45zq0Uxb3mTu4ypnTamhy_5xkmdIQmPfM",
+        "y": "4utSg4QOoiyWu_ETRyKq4asSdfq53ZZivJ3kgQT2R5Q",
+        "kid": "vKgbOCSxWwun-Kin1_oOAmci34iei2uNzvMa2ahiBqU"
+      },
+      "public": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "99TvE8bhQD45zq0Uxb3mTu4ypnTamhy_5xkmdIQmPfM",
+        "y": "4utSg4QOoiyWu_ETRyKq4asSdfq53ZZivJ3kgQT2R5Q",
+        "kid": "vKgbOCSxWwun-Kin1_oOAmci34iei2uNzvMa2ahiBqU"
+      }
+    },
+    "account": {
+      "key": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "99TvE8bhQD45zq0Uxb3mTu4ypnTamhy_5xkmdIQmPfM",
+        "y": "4utSg4QOoiyWu_ETRyKq4asSdfq53ZZivJ3kgQT2R5Q",
+        "kid": "https://acme-v02.api.letsencrypt.org/acme/acct/1713367787"
+      },
+      "contact": [
+        "mailto:info@iterpax.com"
+      ],
+      "initialIp": "64.23.229.94",
+      "createdAt": "2024-05-07T11:15:44.44336208Z",
+      "status": "valid"
+    },
+    "domain": "help.iterpax.com",
+    "serverKey": "-----BEGIN RSA PRIVATE KEY-----\nMIIEpQIBAAKCAQEAtf6R9TdUgD2ixUzu1H/IWQux0MAWnTzKPqpV9TgByx+8aYMv\nuHWzmAUVPYI04lnNV5SNLZ9ltzufBxL15O8e5eoYt5BtqjZHs6hwOIi2CEVP6sR4\nVSUYJjlZhPMRE5QiW7+XVNx/6uVynxjNMPrk5zNnangkWQvVL/FGN2Ua7n20AzfU\n9aKLLFt+8UG+1FXbw4wNgtEJqQAvHTuS0pq8m0qy3iSSxdJnnhEnu3s4xPruXxwB\nUUSmhsfw3GOa2NLv55CcNK5MmGj/pVDWN1ZVeKtSVHfRKevb4yTICBhJuwHPhize\nzfyJJ7Z45ESBzDLKEPML6mnqG219R9HOPPNZ9QIDAQABAoIBAAw1Iz07lON1PvHV\nE0AVwi6W5jqGZ/3sEfTaICHuu9AQNOcu8YiB/KX50U7q6Pk15Nw3DrE8u+nqieRD\nlVLh50SsyzOk8HY2ZeDbL4vbP7qWS6IHw7qSXmhR+Hs+gqq5iQR2eYQrtjjfYyzg\n0QK0EZ6giBNQM7/1Vzt8B6W3lnLgxqtvbEpP9gzbtwFRnA9DClNa/8fk5c5pZQRR\nBnqhh2vX1auK+J5xjtsttcL1PMHJMAOTbjtzhkAL4my3z6Qis5Eoq5rNiS5m9kn1\nwJLazrbJ17OuNbpmxQyedIVt6q8BfwRL0ioxOCi3jwxnojh6ML7cvUuUTJ/Oqh01\nZTQxL4ECgYEA5XmyL+Lcir0YNBn6Efk6zHlB2fM8F0mah5e8iNNE8RnHoEEkHOvO\n4NF0oTl6l4hqp9R07q+BrnE5t1Tzf8en6h30FciW4tw5LWoHJ0vK2ey8q1qr2FMe\nMKGVzH44oPU6CaLNCZP6E+/brMohJTJmtBMEIKziHXSQpXmDbByL5b0CgYEAywfi\n1h9WZxzuvlGJhEYTvwUHoZKSDW8M8BlLKe4Y4Ns8oxJdoGWmghj7goJLL9omappK\nuT+Xixf+W4DJEUlnI2ECCsMk7KaD3zj0vvUhow2lmOklkk9v05cTdV9WN/nyv7o2\nOfjSkYYjfOeqx4NpP6BwMN7dRrSlwerA2UyF/JkCgYEAxvpGKsWhDGA463yW3Rzq\nAkEme5EwytSUvPwyi8X94r3C3k99u+Iw6bpVUjNf/KNaMBrGJe1jGlqtfC2aUnNS\nQ2wjqPvc8euZXKqydz1+MIbZdg/SMGqqI+sI1F+iRNc+svpKpgJ89uql5ecC5JkW\nexB+JMMj8fyQLBv4fDcoi1UCgYEAjywNex94J5iQhycqiVt9ezvJyNd6JP0Fq566\nkWP0qUQQ+5Hs8jocdCu32K2W5bS5WH1bakz8ybpuxQoJQCZ6E8nJzdsVA8jcv6ID\nfVGRmdD60NzAgO+BlT05HJDRVQHue+ONb84Wd0aXafJYTP9PTe4Oj3fppH2pUhkA\nS3waFCkCgYEAu1q9lWMvJJeGlM5AkmnBVbqArRNsckaNGf/Thh9OSSPx8Zbv7LN/\nQHsKtbhEUTrU0l3xY15cEqXRNuTQH/Bxvo7yaHYTeMUmb9VYUIsQPBW/KoQjRbAP\nzo9Ute9l2ydjnfeYf3TCE77hh6NjTAvZ3I4xwm8LwtO2xBi+seKhXnU=\n-----END RSA PRIVATE KEY-----",
+    "challenge": null,
+    "payload": {
+      "expires": "2024-05-14T11:15:50Z",
+      "identifiers": [
+        {
+          "type": "dns",
+          "value": "help.iterpax.com"
+        }
+      ],
+      "cert": "-----BEGIN CERTIFICATE-----\nMIIE7jCCA9agAwIBAgISA7MPo0BR2wkIDnN+VtEWAyROMA0GCSqGSIb3DQEBCwUA\nMDIxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQswCQYDVQQD\nEwJSMzAeFw0yNDA1MDcxMDE1NTZaFw0yNDA4MDUxMDE1NTVaMBsxGTAXBgNVBAMT\nEGhlbHAuaXRlcnBheC5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIB\nAQC1/pH1N1SAPaLFTO7Uf8hZC7HQwBadPMo+qlX1OAHLH7xpgy+4dbOYBRU9gjTi\nWc1XlI0tn2W3O58HEvXk7x7l6hi3kG2qNkezqHA4iLYIRU/qxHhVJRgmOVmE8xET\nlCJbv5dU3H/q5XKfGM0w+uTnM2dqeCRZC9Uv8UY3ZRrufbQDN9T1oossW37xQb7U\nVdvDjA2C0QmpAC8dO5LSmrybSrLeJJLF0meeESe7ezjE+u5fHAFRRKaGx/DcY5rY\n0u/nkJw0rkyYaP+lUNY3VlV4q1JUd9Ep69vjJMgIGEm7Ac+GLN7N/IkntnjkRIHM\nMsoQ8wvqaeobbX1H0c4881n1AgMBAAGjggITMIICDzAOBgNVHQ8BAf8EBAMCBaAw\nHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwGA1UdEwEB/wQCMAAwHQYD\nVR0OBBYEFPdoGuDQBtBqOM/nBYpvewEUvaLMMB8GA1UdIwQYMBaAFBQusxe3WFbL\nrlAJQOYfr52LFMLGMFUGCCsGAQUFBwEBBEkwRzAhBggrBgEFBQcwAYYVaHR0cDov\nL3IzLm8ubGVuY3Iub3JnMCIGCCsGAQUFBzAChhZodHRwOi8vcjMuaS5sZW5jci5v\ncmcvMBsGA1UdEQQUMBKCEGhlbHAuaXRlcnBheC5jb20wEwYDVR0gBAwwCjAIBgZn\ngQwBAgEwggEFBgorBgEEAdZ5AgQCBIH2BIHzAPEAdwBIsONr2qZHNA/lagL6nTDr\nHFIBy1bdLIHZu7+rOdiEcwAAAY9SxHGXAAAEAwBIMEYCIQDxFmFpTYDB+bUo2RI0\nzyQscvuXrj6CrEjTvHgDvIQdmQIhAPJKvFyRrH5mD/eUI6kRuqxTvAy1j7JJ43yU\n+aubLgMqAHYA7s3QZNXbGs7FXLedtM0TojKHRny87N7DUUhZRnEftZsAAAGPUsRx\nmQAABAMARzBFAiBER4TqV4t2UfGaTIX81lym31HshjbWUBOcEN6tAxtH9AIhAJ02\nB9XUXlOtaFHVAWggEg0QE7I6Kxr0c81xeTn0elN0MA0GCSqGSIb3DQEBCwUAA4IB\nAQBupTI6a5edL2eFCy/1ZqwS103NXvkLeX+6ShLI2nz6Aq4WTkgNAlGKfmRknN8c\nmRRFZEYUAjHFvXHGI9+16jU4fTlF3QEkwH/wjx7xBLNfv0/tL+MnAMD83sK3WZJY\n/gj5mLCri4PfjO/CL+ucaPUPm9dGMnPy76m8BX5WaF/BeP8V4wIQIR2x60Boix5X\nwvd7ZfUZIIEcdzDwO1pgxkah4tH4cPPvCejNVERYuYMBgBIukYlBhiB9wdDAytg7\nMa3hpBDfy2R53A8MnX8vQgqP9rc/q2vtoua8rxV3NIcH73dX0XOM1IDLbaZEFwq7\nUe2vKdVbKBlWnihT4JpacXQF\n-----END CERTIFICATE-----\n",
+      "chain": "-----BEGIN CERTIFICATE-----\nMIIFFjCCAv6gAwIBAgIRAJErCErPDBinU/bWLiWnX1owDQYJKoZIhvcNAQELBQAw\nTzELMAkGA1UEBhMCVVMxKTAnBgNVBAoTIEludGVybmV0IFNlY3VyaXR5IFJlc2Vh\ncmNoIEdyb3VwMRUwEwYDVQQDEwxJU1JHIFJvb3QgWDEwHhcNMjAwOTA0MDAwMDAw\nWhcNMjUwOTE1MTYwMDAwWjAyMQswCQYDVQQGEwJVUzEWMBQGA1UEChMNTGV0J3Mg\nRW5jcnlwdDELMAkGA1UEAxMCUjMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK\nAoIBAQC7AhUozPaglNMPEuyNVZLD+ILxmaZ6QoinXSaqtSu5xUyxr45r+XXIo9cP\nR5QUVTVXjJ6oojkZ9YI8QqlObvU7wy7bjcCwXPNZOOftz2nwWgsbvsCUJCWH+jdx\nsxPnHKzhm+/b5DtFUkWWqcFTzjTIUu61ru2P3mBw4qVUq7ZtDpelQDRrK9O8Zutm\nNHz6a4uPVymZ+DAXXbpyb/uBxa3Shlg9F8fnCbvxK/eG3MHacV3URuPMrSXBiLxg\nZ3Vms/EY96Jc5lP/Ooi2R6X/ExjqmAl3P51T+c8B5fWmcBcUr2Ok/5mzk53cU6cG\n/kiFHaFpriV1uxPMUgP17VGhi9sVAgMBAAGjggEIMIIBBDAOBgNVHQ8BAf8EBAMC\nAYYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMBMBIGA1UdEwEB/wQIMAYB\nAf8CAQAwHQYDVR0OBBYEFBQusxe3WFbLrlAJQOYfr52LFMLGMB8GA1UdIwQYMBaA\nFHm0WeZ7tuXkAXOACIjIGlj26ZtuMDIGCCsGAQUFBwEBBCYwJDAiBggrBgEFBQcw\nAoYWaHR0cDovL3gxLmkubGVuY3Iub3JnLzAnBgNVHR8EIDAeMBygGqAYhhZodHRw\nOi8veDEuYy5sZW5jci5vcmcvMCIGA1UdIAQbMBkwCAYGZ4EMAQIBMA0GCysGAQQB\ngt8TAQEBMA0GCSqGSIb3DQEBCwUAA4ICAQCFyk5HPqP3hUSFvNVneLKYY611TR6W\nPTNlclQtgaDqw+34IL9fzLdwALduO/ZelN7kIJ+m74uyA+eitRY8kc607TkC53wl\nikfmZW4/RvTZ8M6UK+5UzhK8jCdLuMGYL6KvzXGRSgi3yLgjewQtCPkIVz6D2QQz\nCkcheAmCJ8MqyJu5zlzyZMjAvnnAT45tRAxekrsu94sQ4egdRCnbWSDtY7kh+BIm\nlJNXoB1lBMEKIq4QDUOXoRgffuDghje1WrG9ML+Hbisq/yFOGwXD9RiX8F6sw6W4\navAuvDszue5L3sz85K+EC4Y/wFVDNvZo4TYXao6Z0f+lQKc0t8DQYzk1OXVu8rp2\nyJMC6alLbBfODALZvYH7n7do1AZls4I9d1P4jnkDrQoxB3UqQ9hVl3LEKQ73xF1O\nyK5GhDDX8oVfGKF5u+decIsH4YaTw7mP3GFxJSqv3+0lUFJoi5Lc5da149p90Ids\nhCExroL1+7mryIkXPeFM5TgO9r0rvZaBFOvV2z0gp35Z0+L4WPlbuEjN/lxPFin+\nHlUjr8gRsI3qfJOQFy/9rKIJR0Y/8Omwt/8oTWgy1mdeHmmjk7j1nYsvC9JSQ6Zv\nMldlTTKB3zhThV1+XWYp6rjd5JW1zbVWEkLNxE7GJThEUG3szgBVGP7pSWTUTsqX\nnLRbwHOoq7hHwg==\n-----END CERTIFICATE-----\n"
+    }
+  },
+  "modules": {
+    "analytics": [
+      {
+        "key": "azureinsights",
+        "isEnabled": false,
+        "config": {
+          "instrumentationKey": ""
+        }
+      },
+      {
+        "key": "baidutongji",
+        "isEnabled": false,
+        "config": {
+          "propertyTrackingId": ""
+        }
+      },
+      {
+        "key": "countly",
+        "isEnabled": false,
+        "config": {
+          "appKey": "",
+          "serverUrl": ""
+        }
+      },
+      {
+        "key": "elasticapm",
+        "isEnabled": false,
+        "config": {
+          "serverUrl": "http://apm.example.com:8200",
+          "serviceName": "wiki-js",
+          "environment": ""
+        }
+      },
+      {
+        "key": "fathom",
+        "isEnabled": false,
+        "config": {
+          "host": "",
+          "siteId": ""
+        }
+      },
+      {
+        "key": "fullstory",
+        "isEnabled": false,
+        "config": {
+          "org": ""
+        }
+      },
+      {
+        "key": "google",
+        "isEnabled": false,
+        "config": {
+          "propertyTrackingId": ""
+        }
+      },
+      {
+        "key": "gtm",
+        "isEnabled": false,
+        "config": {
+          "containerTrackingId": ""
+        }
+      },
+      {
+        "key": "hotjar",
+        "isEnabled": false,
+        "config": {
+          "siteId": ""
+        }
+      },
+      {
+        "key": "matomo",
+        "isEnabled": false,
+        "config": {
+          "siteId": 1,
+          "serverHost": "https://example.matomo.cloud"
+        }
+      },
+      {
+        "key": "newrelic",
+        "isEnabled": false,
+        "config": {
+          "licenseKey": "",
+          "appId": "",
+          "beacon": "bam.nr-data.net",
+          "errorBeacon": "bam.nr-data.net"
+        }
+      },
+      {
+        "key": "plausible",
+        "isEnabled": false,
+        "config": {
+          "domain": "",
+          "plausibleJsSrc": "https://plausible.io/js/plausible.js"
+        }
+      },
+      {
+        "key": "statcounter",
+        "isEnabled": false,
+        "config": {
+          "projectId": "",
+          "securityToken": ""
+        }
+      },
+      {
+        "key": "umami",
+        "isEnabled": false,
+        "config": {
+          "websiteID": "",
+          "url": ""
+        }
+      },
+      {
+        "key": "umami2",
+        "isEnabled": false,
+        "config": {
+          "websiteID": "",
+          "url": ""
+        }
+      },
+      {
+        "key": "yandex",
+        "isEnabled": false,
+        "config": {
+          "tagNumber": ""
+        }
+      }
+    ],
+    "authentication": [
+      {
+        "key": "local",
+        "isEnabled": true,
+        "config": {},
+        "selfRegistration": false,
+        "domainWhitelist": [],
+        "autoEnrollGroups": [],
+        "order": 0,
+        "strategyKey": "local",
+        "displayName": "Local"
+      }
+    ],
+    "commentProviders": [
+      {
+        "key": "artalk",
+        "isEnabled": false,
+        "config": {
+          "server": "",
+          "siteName": ""
+        }
+      },
+      {
+        "key": "commento",
+        "isEnabled": false,
+        "config": {
+          "instanceUrl": "https://cdn.commento.io"
+        }
+      },
+      {
+        "key": "default",
+        "isEnabled": true,
+        "config": {
+          "akismet": "",
+          "minDelay": 30
+        }
+      },
+      {
+        "key": "disqus",
+        "isEnabled": false,
+        "config": {
+          "accountName": ""
+        }
+      }
+    ],
+    "renderers": [
+      {
+        "key": "asciidocCore",
+        "isEnabled": true,
+        "config": {
+          "safeMode": "server"
+        }
+      },
+      {
+        "key": "htmlAsciinema",
+        "isEnabled": false,
+        "config": {}
+      },
+      {
+        "key": "htmlBlockquotes",
+        "isEnabled": true,
+        "config": {}
+      },
+      {
+        "key": "htmlCodehighlighter",
+        "isEnabled": true,
+        "config": {}
+      },
+      {
+        "key": "htmlCore",
+        "isEnabled": true,
+        "config": {
+          "absoluteLinks": false,
+          "openExternalLinkNewTab": false,
+          "relAttributeExternalLink": "noreferrer"
+        }
+      },
+      {
+        "key": "htmlDiagram",
+        "isEnabled": true,
+        "config": {}
+      },
+      {
+        "key": "htmlImagePrefetch",
+        "isEnabled": false,
+        "config": {}
+      },
+      {
+        "key": "htmlMediaplayers",
+        "isEnabled": true,
+        "config": {}
+      },
+      {
+        "key": "htmlMermaid",
+        "isEnabled": true,
+        "config": {}
+      },
+      {
+        "key": "htmlSecurity",
+        "isEnabled": true,
+        "config": {
+          "safeHTML": true,
+          "allowDrawIoUnsafe": true,
+          "allowIFrames": false
+        }
+      },
+      {
+        "key": "htmlTabset",
+        "isEnabled": true,
+        "config": {}
+      },
+      {
+        "key": "htmlTwemoji",
+        "isEnabled": true,
+        "config": {}
+      },
+      {
+        "key": "markdownAbbr",
+        "isEnabled": true,
+        "config": {}
+      },
+      {
+        "key": "markdownCore",
+        "isEnabled": true,
+        "config": {
+          "allowHTML": true,
+          "linkify": true,
+          "linebreaks": true,
+          "underline": false,
+          "typographer": false,
+          "quotes": "English"
+        }
+      },
+      {
+        "key": "markdownEmoji",
+        "isEnabled": true,
+        "config": {}
+      },
+      {
+        "key": "markdownExpandtabs",
+        "isEnabled": true,
+        "config": {
+          "tabWidth": 4
+        }
+      },
+      {
+        "key": "markdownFootnotes",
+        "isEnabled": true,
+        "config": {}
+      },
+      {
+        "key": "markdownImsize",
+        "isEnabled": true,
+        "config": {}
+      },
+      {
+        "key": "markdownKatex",
+        "isEnabled": true,
+        "config": {
+          "useInline": true,
+          "useBlocks": true
+        }
+      },
+      {
+        "key": "markdownKroki",
+        "isEnabled": false,
+        "config": {
+          "server": "https://kroki.io",
+          "openMarker": "```kroki",
+          "closeMarker": "```"
+        }
+      },
+      {
+        "key": "markdownMathjax",
+        "isEnabled": false,
+        "config": {
+          "useInline": true,
+          "useBlocks": true
+        }
+      },
+      {
+        "key": "markdownMultiTable",
+        "isEnabled": false,
+        "config": {
+          "multilineEnabled": true,
+          "headerlessEnabled": true,
+          "rowspanEnabled": true
+        }
+      },
+      {
+        "key": "markdownPivotTable",
+        "isEnabled": false,
+        "config": {}
+      },
+      {
+        "key": "markdownPlantuml",
+        "isEnabled": true,
+        "config": {
+          "server": "https://plantuml.requarks.io",
+          "openMarker": "```plantuml",
+          "closeMarker": "```",
+          "imageFormat": "svg"
+        }
+      },
+      {
+        "key": "markdownSupsub",
+        "isEnabled": true,
+        "config": {
+          "subEnabled": true,
+          "supEnabled": true
+        }
+      },
+      {
+        "key": "markdownTasklists",
+        "isEnabled": true,
+        "config": {}
+      },
+      {
+        "key": "openapiCore",
+        "isEnabled": true,
+        "config": {}
+      }
+    ],
+    "searchEngines": [
+      {
+        "key": "algolia",
+        "isEnabled": false,
+        "config": {
+          "appId": "",
+          "apiKey": "",
+          "indexName": "wiki"
+        }
+      },
+      {
+        "key": "aws",
+        "isEnabled": false,
+        "config": {
+          "domain": "",
+          "endpoint": "",
+          "region": "us-east-1",
+          "accessKeyId": "",
+          "secretAccessKey": "",
+          "AnalysisSchemeLang": "en"
+        }
+      },
+      {
+        "key": "azure",
+        "isEnabled": false,
+        "config": {
+          "serviceName": "",
+          "adminKey": "",
+          "indexName": "wiki"
+        }
+      },
+      {
+        "key": "db",
+        "isEnabled": true,
+        "config": {}
+      },
+      {
+        "key": "elasticsearch",
+        "isEnabled": false,
+        "config": {
+          "apiVersion": "6.x",
+          "hosts": "",
+          "verifyTLSCertificate": true,
+          "tlsCertPath": "",
+          "indexName": "wiki",
+          "analyzer": "simple",
+          "sniffOnStart": false,
+          "sniffInterval": 0
+        }
+      },
+      {
+        "key": "manticore",
+        "isEnabled": false,
+        "config": {}
+      },
+      {
+        "key": "postgres",
+        "isEnabled": false,
+        "config": {
+          "dictLanguage": "english"
+        }
+      },
+      {
+        "key": "solr",
+        "isEnabled": false,
+        "config": {
+          "host": "solr",
+          "port": 8983,
+          "core": "wiki",
+          "protocol": "http"
+        }
+      },
+      {
+        "key": "sphinx",
+        "isEnabled": false,
+        "config": {}
+      }
+    ],
+    "storage": [
+      {
+        "key": "sftp",
+        "isEnabled": false,
+        "mode": "push",
+        "config": {
+          "host": "",
+          "port": 22,
+          "authMode": "privateKey",
+          "username": "",
+          "privateKey": "",
+          "passphrase": "",
+          "password": "",
+          "basePath": "/root/wiki"
+        },
+        "syncInterval": "P0D",
+        "state": {
+          "status": "pending",
+          "message": "",
+          "lastAttempt": null
+        }
+      },
+      {
+        "key": "azure",
+        "isEnabled": false,
+        "mode": "push",
+        "config": {
+          "accountName": "",
+          "accountKey": "",
+          "containerName": "wiki",
+          "storageTier": "Cool"
+        },
+        "syncInterval": "P0D",
+        "state": {
+          "status": "pending",
+          "message": "",
+          "lastAttempt": null
+        }
+      },
+      {
+        "key": "box",
+        "isEnabled": false,
+        "mode": "push",
+        "config": {
+          "clientId": "",
+          "clientSecret": "",
+          "rootFolder": ""
+        },
+        "syncInterval": "P0D",
+        "state": {
+          "status": "pending",
+          "message": "",
+          "lastAttempt": null
+        }
+      },
+      {
+        "key": "digitalocean",
+        "isEnabled": false,
+        "mode": "push",
+        "config": {
+          "endpoint": "nyc3.digitaloceanspaces.com",
+          "bucket": "",
+          "accessKeyId": "",
+          "secretAccessKey": ""
+        },
+        "syncInterval": "P0D",
+        "state": {
+          "status": "pending",
+          "message": "",
+          "lastAttempt": null
+        }
+      },
+      {
+        "key": "disk",
+        "isEnabled": false,
+        "mode": "push",
+        "config": {
+          "path": "",
+          "createDailyBackups": false
+        },
+        "syncInterval": "P0D",
+        "state": {
+          "status": "pending",
+          "message": "",
+          "lastAttempt": null
+        }
+      },
+      {
+        "key": "dropbox",
+        "isEnabled": false,
+        "mode": "push",
+        "config": {
+          "appKey": "",
+          "appSecret": ""
+        },
+        "syncInterval": "P0D",
+        "state": {
+          "status": "pending",
+          "message": "",
+          "lastAttempt": null
+        }
+      },
+      {
+        "key": "gdrive",
+        "isEnabled": false,
+        "mode": "push",
+        "config": {
+          "clientId": "",
+          "clientSecret": ""
+        },
+        "syncInterval": "P0D",
+        "state": {
+          "status": "pending",
+          "message": "",
+          "lastAttempt": null
+        }
+      },
+      {
+        "key": "git",
+        "isEnabled": false,
+        "mode": "sync",
+        "config": {
+          "authType": "ssh",
+          "repoUrl": "",
+          "branch": "master",
+          "sshPrivateKeyMode": "path",
+          "sshPrivateKeyPath": "",
+          "sshPrivateKeyContent": "",
+          "verifySSL": true,
+          "basicUsername": "",
+          "basicPassword": "",
+          "defaultEmail": "name@company.com",
+          "defaultName": "John Smith",
+          "localRepoPath": "./data/repo",
+          "gitBinaryPath": ""
+        },
+        "syncInterval": "PT5M",
+        "state": {
+          "status": "pending",
+          "message": "",
+          "lastAttempt": null
+        }
+      },
+      {
+        "key": "onedrive",
+        "isEnabled": false,
+        "mode": "push",
+        "config": {
+          "clientId": "",
+          "clientSecret": ""
+        },
+        "syncInterval": "P0D",
+        "state": {
+          "status": "pending",
+          "message": "",
+          "lastAttempt": null
+        }
+      },
+      {
+        "key": "s3",
+        "isEnabled": false,
+        "mode": "push",
+        "config": {
+          "region": "",
+          "bucket": "",
+          "accessKeyId": "",
+          "secretAccessKey": ""
+        },
+        "syncInterval": "P0D",
+        "state": {
+          "status": "pending",
+          "message": "",
+          "lastAttempt": null
+        }
+      },
+      {
+        "key": "s3generic",
+        "isEnabled": false,
+        "mode": "push",
+        "config": {
+          "endpoint": "https://service.region.example.com",
+          "bucket": "",
+          "accessKeyId": "",
+          "secretAccessKey": "",
+          "sslEnabled": true,
+          "s3ForcePathStyle": false,
+          "s3BucketEndpoint": false
+        },
+        "syncInterval": "P0D",
+        "state": {
+          "status": "pending",
+          "message": "",
+          "lastAttempt": null
+        }
+      }
+    ]
+  },
+  "apiKeys": []
+}

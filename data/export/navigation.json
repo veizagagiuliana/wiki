@@ -1,0 +1,137 @@
+{
+  "site": [
+    {
+      "locale": "en",
+      "items": [
+        {
+          "id": "51824404-8842-4890-b5c4-2bc5713a5f3d",
+          "kind": "link",
+          "label": "Home",
+          "icon": "mdi-home",
+          "targetType": "home",
+          "target": "/",
+          "visibilityMode": "all",
+          "visibilityGroups": null
+        }
+      ]
+    },
+    {
+      "locale": "es",
+      "items": [
+        {
+          "id": "4bb5edb1-c021-4f1a-a117-d2c7fbdd9006",
+          "kind": "header",
+          "label": "General",
+          "icon": null,
+          "targetType": null,
+          "target": null,
+          "visibilityMode": "all",
+          "visibilityGroups": []
+        },
+        {
+          "id": "6679829d-f403-4a73-98ca-ff75063bfd9f",
+          "kind": "link",
+          "label": "Home",
+          "icon": "mdi-home",
+          "targetType": "page",
+          "target": "/es/home",
+          "visibilityMode": "all",
+          "visibilityGroups": []
+        },
+        {
+          "id": "d0bf1979-a88b-4e2b-89a6-c4916e3417c0",
+          "kind": "link",
+          "label": "Reservas",
+          "icon": "mdi-calendar-account",
+          "targetType": "page",
+          "target": "/es/reserva",
+          "visibilityMode": "all",
+          "visibilityGroups": []
+        },
+        {
+          "id": "6adecb8f-d0b4-4a21-9cb1-a31e7a74e9d1",
+          "kind": "link",
+          "label": "Cotizaciones",
+          "icon": "mdi-cart-plus",
+          "targetType": "page",
+          "target": "/es/cotizaciones",
+          "visibilityMode": "all",
+          "visibilityGroups": []
+        },
+        {
+          "id": "7f95c61c-2a80-4c7a-92c0-56d79c4038d5",
+          "kind": "link",
+          "label": "Actividades",
+          "icon": "mdi-calendar-clock",
+          "targetType": "page",
+          "target": "/es/actividades",
+          "visibilityMode": "all",
+          "visibilityGroups": []
+        },
+        {
+          "id": "a2562005-816b-4a3b-97bb-167bba838a60",
+          "kind": "link",
+          "label": "Itineario",
+          "icon": "mdi-calendar-week",
+          "targetType": "page",
+          "target": "/es/itinerario",
+          "visibilityMode": "all",
+          "visibilityGroups": []
+        },
+        {
+          "id": "754bc6d0-5253-4102-94a3-a9a0987fffb7",
+          "kind": "link",
+          "label": "Consentimientos",
+          "icon": "mdi-note-text",
+          "targetType": "page",
+          "target": "/es/consentimientos",
+          "visibilityMode": "all",
+          "visibilityGroups": []
+        },
+        {
+          "id": "ac7a1c93-e588-4a0f-879e-5daeef64d8a4",
+          "kind": "link",
+          "label": "Encuestas",
+          "icon": "mdi-pencil",
+          "targetType": "page",
+          "target": "/es/encuestas",
+          "visibilityMode": "all",
+          "visibilityGroups": []
+        },
+        {
+          "id": "07aa5da6-0ef3-4873-a691-cb5f0ef08677",
+          "kind": "link",
+          "label": "Vehículos",
+          "icon": "mdi-car",
+          "targetType": "page",
+          "target": "/es/vehículos",
+          "visibilityMode": "all",
+          "visibilityGroups": []
+        },
+        {
+          "id": "93017912-9d33-43d4-81c8-ea7cd3617a17",
+          "kind": "divider",
+          "visibilityMode": "all",
+          "visibilityGroups": []
+        },
+        {
+          "id": "14613e95-8e85-4aca-9f50-0df1164ce0bb",
+          "kind": "header",
+          "label": "Finanzas",
+          "visibilityMode": "all",
+          "visibilityGroups": []
+        },
+        {
+          "id": "71208060-f187-4687-859c-6e214fb67a5a",
+          "kind": "link",
+          "label": "Facturas",
+          "icon": "mdi-barcode",
+          "targetType": "page",
+          "target": "/es/finanzas/facturas",
+          "visibilityMode": "all",
+          "visibilityGroups": []
+        }
+      ]
+    }
+  ]
+}

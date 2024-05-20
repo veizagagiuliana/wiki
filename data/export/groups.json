@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Administrators",
+    "permissions": [
+      "manage:system"
+    ],
+    "pageRules": [],
+    "isSystem": true,
+    "createdAt": "2024-05-02T11:03:30.602Z",
+    "updatedAt": "2024-05-02T11:03:30.602Z",
+    "redirectOnLogin": "/"
+  },
+  {
+    "id": 2,
+    "name": "Guests",
+    "permissions": [
+      "read:pages",
+      "read:assets",
+      "read:comments"
+    ],
+    "pageRules": [
+      {
+        "id": "guest",
+        "roles": [
+          "read:pages",
+          "read:assets",
+          "read:comments"
+        ],
+        "match": "START",
+        "deny": false,
+        "path": "",
+        "locales": []
+      }
+    ],
+    "isSystem": true,
+    "createdAt": "2024-05-02T11:03:30.605Z",
+    "updatedAt": "2024-05-02T11:03:30.605Z",
+    "redirectOnLogin": "/"
+  },
+  {
+    "id": 3,
+    "name": "Gestor Contenido",
+    "permissions": [
+      "read:pages",
+      "read:assets",
+      "read:comments",
+      "write:comments",
+      "write:pages",
+      "manage:pages",
+      "delete:pages",
+      "write:styles",
+      "write:scripts",
+      "read:source",
+      "read:history",
+      "write:assets",
+      "manage:assets",
+      "manage:comments",
+      "manage:navigation",
+      "manage:theme",
+      "manage:api"
+    ],
+    "pageRules": [
+      {
+        "id": "default",
+        "deny": false,
+        "match": "START",
+        "roles": [
+          "read:pages",
+          "write:pages",
+          "manage:pages",
+          "delete:pages",
+          "read:source",
+          "read:history",
+          "read:assets",
+          "write:assets",
+          "manage:assets",
+          "write:styles",
+          "write:scripts",
+          "read:comments",
+          "write:comments",
+          "manage:comments"
+        ],
+        "path": "",
+        "locales": []
+      },
+      {
+        "id": "2aec3d62df",
+        "deny": false,
+        "match": "START",
+        "roles": [],
+        "path": "",
+        "locales": []
+      }
+    ],
+    "isSystem": false,
+    "createdAt": "2024-05-02T11:05:49.728Z",
+    "updatedAt": "2024-05-02T12:37:02.575Z",
+    "redirectOnLogin": "/"
+  }
+]
